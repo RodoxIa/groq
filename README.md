@@ -11,7 +11,7 @@ npm install
 
 2. Adicione sua chave Groq em `.env.local`:
 ```
-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
+
 ```
 
 3. Rode:
